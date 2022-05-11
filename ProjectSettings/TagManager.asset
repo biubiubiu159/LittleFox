@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Undefined
   - Collection
+  - Enemy
+  - DeadLine
   layers:
   - Default
   - TransparentFX
